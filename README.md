@@ -1,6 +1,6 @@
  NEWS-API
 ### Author:{Sarah Sindet}
-,github(https://github.com/sarahsindet)
+,github(https://github.com/sindetisarah)
 ## Description
 NEWS-API is an application that allows one to view different sources e.g Business Sources.
 ### Log in as a user
